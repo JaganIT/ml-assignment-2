@@ -6,11 +6,11 @@ The objective of this assignment is to build, evaluate, compare, and deploy mult
 ## b. Dataset Description
 * **Dataset Name**: Breast Cancer Wisconsin (Diagnostic) Dataset (sourced from Scikit-Learn / UCI Repository).
 * **Problem Type**: Binary Classification (Malignant vs. Benign).
-* **Feature Count**: 30 numerical features ( satisfies requirement $\ge 12$ )[cite: 3].
-* **Instance Count**: 569 instances ( satisfies requirement $\ge 500$ )[cite: 3].
+* **Feature Count**: 30 numerical features ( satisfies requirement $\ge 12$ ).
+* **Instance Count**: 569 instances ( satisfies requirement $\ge 500$ ).
 
 ## c. GitHub Repository Link
-* [Insert your public GitHub Repository URL here][cite: 1]
+https://github.com/JaganIT/ml-assignment-2
 
 ## d. Models Used & Performance Comparison
 
@@ -22,7 +22,7 @@ The objective of this assignment is to build, evaluate, compare, and deploy mult
 | **Naive Bayes** | 0.9386 | 0.9850 | 0.9444 | 0.9577 | 0.9511 | 0.8659 |
 | **Support Vector Machine** | 0.9649 | 0.9912 | 0.9577 | 0.9859 | 0.9716 | 0.9234 |
 
-### Observations on Model Performance[cite: 4]
+### Observations on Model Performance
 * **Logistic Regression**: Performed exceptionally well due to the linear separability of the scaled features, yielding high accuracy and balanced precision/recall.
 * **Decision Tree**: Prone to slight overfitting compared to linear models, resulting in slightly lower accuracy and MCC scores.
 * **KNN**: Performed strongly after feature scaling, capturing local patterns effectively with $K=5$.
@@ -31,6 +31,9 @@ The objective of this assignment is to build, evaluate, compare, and deploy mult
 
 * **Overall Winner**: **Logistic Regression & Support Vector Machine (Tie)**, offering the highest accuracy, AUC, and MCC scores on the test set.
 
----
+### Streamlit Link
+https://2026ak0561-ml-assignment-2.streamlit.app/
+
+https://2026ak0561-ml-assignment-2.streamlit.app/---
 ## e. Deployment Details
 * **Live Streamlit App**: [Insert your Streamlit Community Cloud URL here][cite: 1]

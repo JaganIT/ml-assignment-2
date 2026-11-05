@@ -21,11 +21,11 @@ https://github.com/JaganIT/ml-assignment-2
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Logistic Regression** | 0.9649 | 0.9912 | 0.9577 | 0.9859 | 0.9716 | 0.9234 |
-| **Decision Tree** | 0.9298 | 0.9215 | 0.9420 | 0.9296 | 0.9358 | 0.8502 |
-| **KNN** | 0.9386 | 0.9754 | 0.9315 | 0.9718 | 0.9512 | 0.8665 |
-| **Naive Bayes** | 0.9386 | 0.9850 | 0.9444 | 0.9577 | 0.9511 | 0.8659 |
-| **Support Vector Machine** | 0.9649 | 0.9912 | 0.9577 | 0.9859 | 0.9716 | 0.9234 |
+| **Logistic Regression** | **0.9825** | **0.9954** | **0.9861** | **0.9861** | **0.9861** | **0.9623** |
+| **Decision Tree** | 0.9123 | 0.9157 | 0.9559 | 0.9028 | 0.9286 | 0.8174 |
+| **KNN** | 0.9561 | 0.9788 | 0.9589 | 0.9722 | 0.9655 | 0.9054 |
+| **Naive Bayes** | 0.9386 | 0.9878 | 0.9452 | 0.9583 | 0.9517 | 0.8676 |
+| **Support Vector Machine** | 0.9825 | 0.9950 | 0.9861 | 0.9861 | 0.9861 | 0.9623 |
 
 ### Observations on Model Performance
 * **Logistic Regression**: Performed exceptionally well due to the linear separability of the scaled features, yielding high accuracy and balanced precision/recall.

@@ -1,5 +1,10 @@
 # Machine Learning Assignment 2: Multi-Model Classification & Deployment
 
+Name of the student: Jagannath Moguluru
+Roll number: 2026ak05616
+Subject Code: AIMLZG565
+ 
+
 ## a. Problem Statement
 The objective of this assignment is to build, evaluate, compare, and deploy multiple machine learning classification algorithms using an end-to-end MLOps pipeline. The project covers training models, storing evaluation metrics, building an interactive Streamlit frontend, and deploying the solution live.
 
@@ -31,9 +36,5 @@ https://github.com/JaganIT/ml-assignment-2
 
 * **Overall Winner**: **Logistic Regression & Support Vector Machine (Tie)**, offering the highest accuracy, AUC, and MCC scores on the test set.
 
-### Streamlit Link
-https://2026ak0561-ml-assignment-2.streamlit.app/
-
-https://2026ak0561-ml-assignment-2.streamlit.app/---
 ## e. Deployment Details
-* **Live Streamlit App**: [Insert your Streamlit Community Cloud URL here][cite: 1]
+* **Live Streamlit App**: https://2026ak0561-ml-assignment-2.streamlit.app/

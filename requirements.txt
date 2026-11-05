@@ -1,7 +1,6 @@
-streamlit==1.32.0
-pandas==2.2.1
-numpy==1.26.4
+streamlit>=1.38.0
+pandas>=2.0.0
 scikit-learn
-joblib
 matplotlib
 seaborn
+plotly
